@@ -1,0 +1,46 @@
+body{
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin-top: 83px;
+    margin-left: 200px;
+    margin-right: 200px ;
+}
+/*exceto texto transforme, os outros sao centralizados*/
+h1{
+    color: #33A8DB;
+    
+}
+h2{
+    color: #33A8DB;
+    
+}
+p{
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    text-align: center;
+}
+ #professional-challenges p{
+    font-family: 'Raleway';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+text-align: center;
+}
+
+#transform-world p {
+    text-align: left;
+    
+}
+.module{
+    
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    }
